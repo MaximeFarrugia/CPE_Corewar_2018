@@ -1,0 +1,10 @@
+/asm/asm
+/corewar/corewar
+/vgcore.*
+/asm/vgcore.*
+/corewar/vgcore.*
+/corewar_binaries
+/tests
+/lib/libmy.a
+/lib/my/libmy.a
+/.vscode
