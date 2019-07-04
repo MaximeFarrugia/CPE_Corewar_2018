@@ -1,20 +1,6 @@
 .name		"Octobre Rouge V4.2"
 .comment	"And the winner is ..."
 
-		sti r1,%:xxx,%1
-		sti r1,%:zork,%1
-		sti r1,%:zork_,%1
-		sti r1,%:zork2,%1
-		sti r1,%:zork2_,%1
-		sti r1,%:zork3,%1
-		sti r1,%:zork3_,%1
-		sti r1,%:zork4,%1
-		sti r1,%:zork4_,%1
-		sti r1,%:back_wall,%1
-		sti r1,%:torp,%1
-		sti r1,%:torp1,%1
-		sti r1,%:torp2,%1
-		sti r1,%:launc_,%1
 		st	r1,19
 		ld	%0,r15
 		fork	%:xxx
